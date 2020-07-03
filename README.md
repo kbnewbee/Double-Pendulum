@@ -1,5 +1,5 @@
 # Double-Pendulum
-Implementation of Double Pendulum - visualization of the tail at different stages of time:
+Implementation of Double Pendulum - Visualization of the tail bob at different stages of time:
 
 ## Stage 1
 ![dPend](https://user-images.githubusercontent.com/54534189/86495377-bfde9180-bd96-11ea-88ac-680b919280e5.JPG)
